@@ -1,0 +1,462 @@
+.back {
+    background-color: rgb(38, 103, 201);
+}
+
+.cont {
+    background-color: rgb(38, 103, 201);
+}
+
+.pos {
+    /* background-color: violet; */
+    text-align: center;
+    /* position: relative;
+    top: 20px; */
+}
+
+.text {
+    color: white;
+    /* text-align: center; */
+    padding-top: 15px;
+    font-size: 15px;
+    /* background-color: tomato; */
+    padding-left: 50px;
+    text-align: center;
+}
+
+.fbp {
+    background-image: url("f_logo_RGB-Hex-Blue_512.png");
+    background-repeat: no-repeat;
+    background-size: 15px;
+    background-color: rgb(38, 103, 201);
+    border-style: none;
+    width: 15px;
+    height: 15px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.twip {
+    background-image: url("images.png");
+    background-repeat: no-repeat;
+    background-size: 15px;
+    background-color: rgb(38, 103, 201);
+    border-style: none;
+    width: 15px;
+    height: 15px;
+    /* margin-top: 30px; */
+    margin-left: 20px;
+}
+
+.insp {
+    background-image: url("ins.png");
+    background-repeat: no-repeat;
+    background-size: 15px;
+    background-color: rgb(38, 103, 201);
+    border-style: none;
+    width: 15px;
+    height: 15px;
+    /* margin-top: 30px; */
+    margin-left: 20px;
+}
+
+.youp {
+    background-image: url("you.svg");
+    background-repeat: no-repeat;
+    background-size: 15px;
+    background-color: rgb(38, 103, 201);
+    border-style: none;
+    width: 15px;
+    height: 15px;
+    /* margin-top: 30px; */
+    margin-left: 20px;
+}
+
+.whap {
+    background-image: url("wota.png");
+    background-repeat: no-repeat;
+    background-size: 15px;
+    background-color: rgb(38, 103, 201);
+    border-style: none;
+    width: 15px;
+    height: 15px;
+    /* margin-top: 30px; */
+    margin-left: 20px;
+}
+
+#form {
+    display: inline-block;
+    margin-left: 0px;
+}
+
+.uk {
+    padding: 3px 6px 3px 6px;
+    border: 1px solid black;
+    color: green;
+    margin-top: 14px;
+    font-size: 13px;
+}
+
+.inline {
+    display: inline-block;
+}
+
+.buts {
+    text-align: center;
+}
+
+.say {
+    /* margin-left: 0px; */
+}
+
+.one {
+    /* background-color: greenyellow; */
+}
+
+.two {
+    /* background-color: khaki; */
+    align-self: center;
+}
+
+.thr {
+    background-color: rgb(38, 103, 201);
+    border-style: none;
+    color: white;
+    margin-left: 148px;
+    border-radius: 30px;
+    border: 1px solid;
+    padding-left: 14px;
+    padding-right: 14px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+#about {
+    /* border-style: none; */
+    border-style: none;
+    border-radius: 30px;
+    border: 1px solid rgb(38, 103, 201);
+    border-color: rgb(38, 103, 201);
+    padding-left: 8px;
+    /* padding-right: 13px; */
+    padding-top: 3px;
+    padding-bottom: 3px;
+    /* background-color:rgb(38, 103, 201) ;
+    color: white; */
+    /* margin-left: 20px; */
+    align-items: center;
+    width: 78px;
+    border: none;
+    background-color: white;
+}
+
+#about:hover {
+    background-color: rgb(38, 103, 201);
+    color: white;
+}
+
+#servi {
+    /* border-style: none; */
+    border-style: none;
+    border-radius: 30px;
+    border: 1px solid rgb(38, 103, 201);
+    border-color: rgb(38, 103, 201);
+    padding-left: 8px;
+    /* padding-right: 13px; */
+    padding-top: 3px;
+    padding-bottom: 3px;
+    /* background-color:rgb(38, 103, 201) ;
+    color: white; */
+    /* margin-left: 20px; */
+    align-self: center;
+    width: 140px;
+    border: none;
+    background-color: white;
+}
+
+#servi:hover {
+    background-color: rgb(38, 103, 201);
+    color: white;
+}
+
+#project {
+    /* border-style: none; */
+    border-style: none;
+    border-radius: 30px;
+    border: 1px solid rgb(38, 103, 201);
+    border-color: rgb(38, 103, 201);
+    padding-left: 8px;
+    /* padding-right: 13px; */
+    padding-top: 3px;
+    padding-bottom: 3px;
+    /* background-color:rgb(38, 103, 201) ;
+    color: white; */
+    /* margin-left: 20px; */
+    align-self: center;
+    width: 130px;
+    border: none;
+    background-color: white;
+}
+
+#project:hover {
+    background-color: rgb(38, 103, 201);
+    color: white;
+}
+
+#Media {
+    border-style: none;
+    border-radius: 30px;
+    /* border: 1px solid; */
+    /* border-color: rgb(38, 103, 201); */
+    padding-left: 11px;
+    padding-right: 11px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    /* background-color: rgb(38, 103, 201); */
+    /* color: white; */
+    /* margin-left: 30px; */
+    align-self: center;
+    background-color: white;
+}
+
+#Media:hover {
+    background-color: rgb(38, 103, 201);
+    color: white;
+}
+
+#News {
+    border-style: none;
+    border-radius: 30px;
+    /* border: 1px solid; */
+    /* border-color: rgb(38, 103, 201); */
+    padding-left: 13px;
+    padding-right: 13px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    /* background-color: rgb(38, 103, 201); */
+    /* color: white; */
+    /* margin-left: 30px; */
+    align-self: center;
+    background-color: white;
+}
+
+#News:hover {
+    background-color: rgb(38, 103, 201);
+    color: white;
+}
+
+#Donate {
+    /* border-style: none; */
+    border-style: none;
+    border-radius: 30px;
+    border: 1px solid rgb(38, 103, 201);
+    border-color: rgb(38, 103, 201);
+    padding-left: 8px;
+    /* padding-right: 13px; */
+    padding-top: 3px;
+    padding-bottom: 3px;
+    /* background-color:rgb(38, 103, 201) ;
+    color: white; */
+    /* margin-left: 20px; */
+    align-self: center;
+    width: 98px;
+    border: none;
+    background-color: white;
+}
+
+#Donate:hover {
+    background-color: rgb(38, 103, 201);
+    color: white;
+}
+
+@media only screen and (max-width: 1200px) {
+    .say {
+        margin-left: 0px;
+    }
+    .thr {
+        margin-left: 0px;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    .thr {
+        margin-left: 13px;
+        margin-top: 20px;
+    }
+}
+
+.strip {
+    margin-top: 6px;
+}
+
+@media only screen and (max-width:1200px) {
+    .center {
+        width: 800px;
+        height: 25px;
+    }
+}
+
+@media only screen and (max-width:807px) {
+    .center {
+        width: 600px;
+        height: 25px;
+    }
+}
+
+@media only screen and (min-width:768px) {
+    /* .say{
+        display: none;
+
+    } */
+    .pic {
+        display: none;
+    }
+    /* .two{
+        display: none;
+    } */
+}
+
+@media only screen and (max-width:768px) {
+    .say {
+        display: none;
+    }
+    /* .pic{
+        display: none;
+    } */
+    .two {
+        display: none;
+    }
+}
+
+.button {
+    /* width: 60px; */
+    background-color: white;
+    border-style: none;
+    margin-left: 380px;
+}
+
+/* }
+@media only screen and (max-width:591px){
+    .button{
+        margin-left: 180px;
+    }
+}
+@media only screen and (max-width:471px){
+    .button{
+        margin-left: 40px;
+    }
+}
+.two.button:focus{
+    display: inline-block;
+} */
+
+@media only screen and (min-width:768px) {
+    .nav {
+        display: none;
+    }
+}
+
+.nav {
+    color: red;
+}
+
+.navitem:hover {
+    /* background-color: rgb(38, 103, 201) ; */
+    color: white;
+    padding-left: 6px;
+    font-weight: bold;
+}
+
+.in {
+    margin-top: 35px;
+}
+
+.bg {
+    background-color: rgb(15, 64, 242);
+    height: 300px;
+}
+
+.kit {
+    margin-top: 80px;
+    /* display: inline-block; */
+}
+
+.fou {
+    display: inline;
+}
+
+@media only screen and (max-width:1200px) {
+    .bg {
+        height: 500px;
+    }
+}
+
+@media only screen and (max-width:792px) {
+    .bg {
+        height: 850px;
+    }
+}
+
+.bod {
+    box-shadow: 5px 5px 10px lightslategray;
+    /* box-shadow: -5px -5px -5px lightslategray; */
+}
+
+@media only screen and (max-width:1200px) {
+    .siz {
+        width: 280px;
+    }
+}
+
+.roo {
+    margin-top: 30px;
+}
+
+.h {
+    color: rgb(38, 103, 201);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: underline green;
+    display: inline;
+}
+
+.g {
+    color: rgb(38, 103, 201);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: underline green;
+    display: inline;
+}
+
+.bgcoco {
+    background-color: rgb(237, 237, 235);
+}
+
+.imggs:hover {
+    width: 500px;
+}
+
+.obo {
+    background-color: rgb(27, 28, 28);
+}
+
+.piku {
+    color: lightgrey;
+}
+
+.use {
+    text-decoration: underline green;
+    color: white;
+    font-size: x-large;
+}
+
+.conon {
+    color: white;
+    font-size: large;
+}
+.os{
+    background-color: rgb(38, 103, 201);
+}
+@media only screen and (max-width:762px)
+{
+    .bf{
+        margin-top: 25px;
+    }
+}
